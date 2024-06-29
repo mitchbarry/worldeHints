@@ -1,0 +1,1 @@
+# Basically I struggled to find out how to use css modules in React Native, so I ended up just using StyleSheets in the pages. Tailwind, Bootstrap, all that stuff seems like it gives your app a certain "look", whereas I feel like pure CSS can look really unique because it doesn't have templates unless you search for them. Use whatever you want though!
